@@ -1,4 +1,4 @@
 test-repo
 =========
 
-testing repo
+My demo.
